@@ -1,3 +1,11 @@
+"""
+字符串
+Version: 0.1
+Author: usrpi
+date: 2020-08-22
+"""
+
+
 s = 'hello!'
 
 print(len(s))
